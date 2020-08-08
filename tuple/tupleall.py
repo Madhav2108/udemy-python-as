@@ -11,3 +11,8 @@ n = 5
 for i in range(int(n)): 
     Tuple1 = (Tuple1,) 
     print(Tuple1) 
+Tuple1 = ("madhav", "narayan", "khullar") 
+a, b, c = Tuple1  
+print(a) 
+print(b) 
+print(c) 
