@@ -11,5 +11,6 @@ print(x.__next__())
 print(x.__next__())
 print(x.__next__())
 print("\nUsing for in loop") 
-for i in fib(5): 
+x=int(input())
+for i in fib(x): 
 	print(i) 
