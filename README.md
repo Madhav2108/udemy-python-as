@@ -1,2 +1,2 @@
 # udemy-python-as
-all code given in udemy from 0 to top 
+all code given r Practice under udemy and online platform
